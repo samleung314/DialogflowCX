@@ -57,7 +57,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "I will need to connect you with a member of our team to further assist you." ]
+          "text": [ "I will need to connect you with a member of our team to further assist you. This is prod environment" ]
         },
         "languageCode": "en"
       } ]
