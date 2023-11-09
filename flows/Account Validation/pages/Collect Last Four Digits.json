@@ -57,7 +57,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "I will need to connect you with a member of our team to further assist you. This is dev environment" ]
+          "text": [ "I will need to connect you with a member of our team to further assist you. This is dev environment, this is a minor change." ]
         },
         "languageCode": "en"
       } ]
